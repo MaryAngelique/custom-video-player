@@ -32,7 +32,7 @@
 
 ### Links
 
-- Solution URL: [https://github.com/MaryAngelique/movie-app)
+- Solution URL: [https://github.com/MaryAngelique/custom-video-player)
 - Live Site URL: [vercel link)
 
 ## My process
@@ -41,8 +41,10 @@
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
+- HTML Video Element
+- JS API Custom Player
+- Font Awesome Icons
+- CSS Cross Browser Compatible Range Inputs
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
