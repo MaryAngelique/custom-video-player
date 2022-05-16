@@ -15,10 +15,12 @@
 
 ### The challenge
 
-Users should be able to:
-#### - Hover on any movie to show the movie overview
-#### - Search for keywords and movies will appear with the specified word
-#### - See the movies based on popularity in descending order
+#### - Display custom video player styled with CSS
+#### - Add Play/pause functional buttons
+#### - Stop button to stop the video
+#### - Video progress bar
+#### - Set progress bar time
+#### - Display time in mins and seconds
 
 
 ### Features
