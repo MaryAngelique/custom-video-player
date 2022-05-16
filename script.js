@@ -14,7 +14,7 @@ function toggleVideoStatus() {
   }
 }
 
-// update play/pause icon
+// Update Play/Pause Icon
 function updatePlayIcon() {
   if (video.paused) {
     play.innerHTML = "<i class='fa fa-play fa-2x'></i>";
