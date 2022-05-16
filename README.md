@@ -28,7 +28,7 @@
 
 
 ### Project Demo
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](https://www.loom.com/share/04308484bbe5487a8bca8ba87c988ac8)
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](https://www.loom.com/share/a25ba413dba44ef095e531f39399b312)
 
 ### Links
 
