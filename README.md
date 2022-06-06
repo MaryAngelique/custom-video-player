@@ -33,7 +33,7 @@
 ### Links
 
 - Solution URL: [https://github.com/MaryAngelique/custom-video-player)
-- Live Site URL: [vercel link)
+- Live Site URL: [Custom Video Player Website](https://custom-video-player-aplha.vercel.app/)
 
 ## My process
 
